@@ -4,7 +4,7 @@ const categories = [
   {
     title: "Pizza blanches",
     items: [
-      { name: "Rustica", price: "15,00" },
+      { name: "Rustica", price: "17,00" },
       { name: "Bresaolina", price: "19,00" },
       { name: "Gustosa", price: "18,00" },
       { name: "Bufalina", price: "16,00" },
