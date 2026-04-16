@@ -20,7 +20,7 @@ const AboutSection = () => {
           </h2>
           <div className="space-y-4 text-muted-foreground font-light leading-relaxed">
             <p>
-              Au 59 Rue de Boulainvilliers, 75016 Paris, se dévoile Chez Filiberto. Ce restaurant, c'est une histoire de passion pour la cuisine authentique. Chaque plat, élaboré avec des produits frais et un savoir-faire sincère, invite à savourer des saveurs pures et généreuses. L'ambiance y est chaleureuse, presque familiale, un havre de convivialité où rires et échanges animent chaque repas. On ressent l'amour du métier et le désir de partager de vrais moments gourmands. Chez Filiberto, venez vivre une expérience où la bonne chère rencontre le cœur.
+              Au 59 Rue de Boulainvilliers, 75016 Paris, se dévoile Tanner Bensoussans. Ce restaurant, c'est une histoire de passion pour la cuisine authentique. Chaque plat, élaboré avec des produits frais et un savoir-faire sincère, invite à savourer des saveurs pures et généreuses. L'ambiance y est chaleureuse, presque familiale, un havre de convivialité où rires et échanges animent chaque repas. On ressent l'amour du métier et le désir de partager de vrais moments gourmands. Chez Tanner Bensoussans, venez vivre une expérience où la bonne chère rencontre le cœur.
             </p>
           </div>
         </div>
